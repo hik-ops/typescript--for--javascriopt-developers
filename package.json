@@ -1,0 +1,23 @@
+{
+  "name": "typescript--for--javascriopt-developers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hik-ops/typescript--for--javascriopt-developers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hik-ops/typescript--for--javascriopt-developers/issues"
+  },
+  "homepage": "https://github.com/hik-ops/typescript--for--javascriopt-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
